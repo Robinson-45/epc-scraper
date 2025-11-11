@@ -1,0 +1,8 @@
+{
+  "inputFile": "data/sample_input.json",
+  "outputDir": "data",
+  "formats": ["json", "csv", "excel", "xml", "rss", "html"],
+  "monitoring": false,
+  "stateFile": "data/epc_state.json",
+  "requestDelaySeconds": 0.2
+}
