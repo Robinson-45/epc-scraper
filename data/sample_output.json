@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://find-energy-certificate.service.gov.uk/energy-certificate/0010-2129-7282-2472-9215",
+    "postCode": "BN1 3JB",
+    "locality": "BRIGHTON",
+    "address": "Flat 6,36 Dyke Road",
+    "rating": "C",
+    "id": "0010-2129-7282-2472-9215",
+    "propertyType": "Mid-floor flat",
+    "floorArea": "35 square metres",
+    "currentScore": "75 C",
+    "potentialScore": "79 C",
+    "features": [
+      {
+        "name": "Wall",
+        "description": "Solid brick, with internal insulation",
+        "rating": "Good"
+      },
+      {
+        "name": "Window",
+        "description": "Partial double glazing",
+        "rating": "Poor"
+      }
+    ],
+    "primaryUsage": 327,
+    "averageBill": 488,
+    "potentialSaving": 94,
+    "averageCostYear": 2022,
+    "co2Produces": 1.9,
+    "co2Potential": 1.5,
+    "changes": [
+      {
+        "name": "Heat recovery system for mixer showers",
+        "installationCost": "£585 - £725",
+        "yearlySaving": "£36",
+        "potentialRating": "76 C"
+      },
+      {
+        "name": "Double glazed windows",
+        "installationCost": "£3,300 - £6,500",
+        "yearlySaving": "£59",
+        "potentialRating": "79 C"
+      }
+    ],
+    "assessorName": "Paul Cronin",
+    "assessorPhone": "01273 977447",
+    "assessorEmail": "paul@croninspropertychecks.com",
+    "accreditationScheme": "Stroma Certification Ltd",
+    "accreditationAssessorID": "STRO033856",
+    "accreditationPhone": null,
+    "accreditationEmail": null,
+    "assessmentDate": "31 August 2022",
+    "certificateDate": "6 September 2022",
+    "assessmentType": "RdSAP",
+    "validtillDate": "5 September 2032",
+    "expired": false
+  }
+]
